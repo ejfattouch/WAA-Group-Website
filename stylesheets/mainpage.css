@@ -13,7 +13,7 @@
     background-repeat: no-repeat;
     /* Fallback */
     background-image: linear-gradient(to top, rgba(255,255,255,0) 20%,
-    rgba(255,255,255,1)), url("../pictures/DiningRoom.jpg");
+    rgba(255,255,255,1)), url("../Pictures/DiningRoom.jpg");
     background-position: center;
 
     box-shadow: 0 2px 20px 0 rgba(0, 0, 0, 0.251);

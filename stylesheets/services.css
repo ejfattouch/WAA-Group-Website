@@ -277,8 +277,8 @@
 }
 
 .carousel-left-arrow{
-  mask-image: url(../pictures/chevron-left-icon.svg);
-  -webkit-mask-image: url(../pictures/chevron-left-icon.svg);
+  mask-image: url(../Pictures/chevron-left-icon.svg);
+  -webkit-mask-image: url(../Pictures/chevron-left-icon.svg);
   mask-size: contain;
   -webkit-mask-size: contain;
   mask-repeat: no-repeat;
@@ -299,8 +299,8 @@
 }
 
 .carousel-right-arrow{
-  mask: url("../pictures/chevron-right-icon.svg");
-  -webkit-mask: url("../pictures/chevron-right-icon.svg");
+  mask: url("../Pictures/chevron-right-icon.svg");
+  -webkit-mask: url("../Pictures/chevron-right-icon.svg");
   mask-size: contain;
   -webkit-mask-size: contain;
   mask-repeat: no-repeat;
